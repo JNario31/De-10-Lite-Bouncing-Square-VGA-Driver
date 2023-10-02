@@ -13,3 +13,5 @@ qx and qy are variables that describe the position of the square (updated to cha
 square will be drawn within these coordinates
 
 qdx and qy are variables that describe direction, when 0 move right/down respectively
+
+![](https://github.com/JNario31/De-10-Lite-Bouncing-Square-VGA-Driver/blob/main/AeK3ccs%20-%20Imgur.gif)
